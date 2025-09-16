@@ -1,0 +1,84 @@
+[
+  {
+    "id": "E-1001",
+    "title": "Colombian Emerald - Emerald Cut",
+    "cut": "Emerald",
+    "carat": 1.25,
+    "clarity": "VVS",
+    "price": 185000,
+    "image": "/assets/img/emerald1.jpg",
+    "description": "Vivid green Colombian emerald with excellent clarity and symmetry."
+  },
+  {
+    "id": "E-1002",
+    "title": "Zambian Emerald - Oval",
+    "cut": "Oval",
+    "carat": 1.80,
+    "clarity": "VS",
+    "price": 210000,
+    "image": "/assets/img/emerald2.jpg",
+    "description": "Rich saturation, minor inclusions typical of origin."
+  },
+  {
+    "id": "E-1003",
+    "title": "Colombian Emerald - Pear",
+    "cut": "Pear",
+    "carat": 2.10,
+    "clarity": "VS",
+    "price": 390000,
+    "image": "/assets/img/emerald3.jpg",
+    "description": "Elegant pear shape with strong brilliance."
+  },
+  {
+    "id": "E-1004",
+    "title": "Zambian Emerald - Round",
+    "cut": "Round",
+    "carat": 0.90,
+    "clarity": "VVS",
+    "price": 98000,
+    "image": "/assets/img/emerald4.jpg",
+    "description": "Bright round cut suitable for fine jewelry settings."
+  },
+  {
+    "id": "E-1005",
+    "title": "Brazilian Emerald - Cushion",
+    "cut": "Cushion",
+    "carat": 2.65,
+    "clarity": "SI",
+    "price": 275000,
+    "image": "/assets/img/emerald5.jpg",
+    "description": "Cushion cut with classic charm and strong color."
+  },
+  {
+    "id": "E-1006",
+    "title": "Colombian Emerald - Emerald Cut",
+    "cut": "Emerald",
+    "carat": 3.20,
+    "clarity": "VS",
+    "price": 820000,
+    "image": "/assets/img/emerald6.jpg",
+    "description": "Investment-grade stone with prized hue and transparency."
+  },
+  {
+    "id": "E-1007",
+    "title": "Zambian Emerald - Oval",
+    "cut": "Oval",
+    "carat": 1.10,
+    "clarity": "VS",
+    "price": 135000,
+    "image": "/assets/img/emerald7.jpg",
+    "description": "Well-proportioned oval with lively scintillation."
+  },
+  {
+    "id": "E-1008",
+    "title": "Afghan Emerald - Emerald Cut",
+    "cut": "Emerald",
+    "carat": 2.40,
+    "clarity": "SI",
+    "price": 330000,
+    "image": "/assets/img/emerald8.jpg",
+    "description": "Unique origin with classic step-cut appeal."
+  }
+]
+
+
